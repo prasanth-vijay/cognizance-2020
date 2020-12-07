@@ -11,6 +11,10 @@ People can use technology to:
     * Produce goods or services 
     * Carry out goals, such as scientific investigation or sending a spaceship to the moon
     * Solve problems, such as disease or famine
+<!-- horizontal rule -->
+
+---
+___
 
 <!-- images -->
 ![technolgy](https://media.istockphoto.com/photos/innovation-and-science-concept-picture-id1177116437?k=6&m=1177116437&s=612x612&w=0&h=kbSnR5BnEtBeOzBp8bCXM48SEUffNw-c3Z1l7F7U_A0=)
