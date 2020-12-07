@@ -23,6 +23,10 @@ ___
 
    * The word <!-- italic --> *techne* meaning "art,skill, or cunning of hand"
    * The word <!-- italic --> *-logia*, a suffix meaning "the study of"
+<!--horizantal rule -->
+
+---
+___
 
 Technology can be knowledge of how to do things.Machines are examples of embed. This lets others use the machines without how they work . <!-- strong -->
 **Technogical systems** use technology by taking something, changing it, then producing a result. They are also known as <!-- strong -->
